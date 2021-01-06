@@ -28,127 +28,102 @@ The dataset consists of a csv file: vaccination_tweets.csv
            
 ## RESULTS :
 
-#### Top-10 country most affected by COVID-19
-![Top-10 country most affected by COVID-19](./COVID_1.png)
+#### Types of Twitter accounts
+![Types of Twitter accounts](./PFIZER_1.png)
 
-#### Top-10 country most killed by COVID-19
-![Top-10 country most killed by COVID-19](./COVID_2.png)
+#### Top-5 Sources (Platform) of tweets
+![Top-5 Sources (Platform) of tweets](./PFIZER_2.png)
 
-#### COVID-19 confirmed case distribution
-![COVID-19 confirmed case distribution](./COVID_3.png)
-![COVID-19 confirmed case distribution](./COVID_4.png)
+#### Platform with maximum number of tweets
+![Platform with maximum number of tweets](./PFIZER_3.png)
 
-#### 6 countries having huge COVID-19 confirmed cases in the world
-![6 countries having huge COVID-19 confirmed cases in the world](./COVID_5.png)
+#### Day with maximum tweets
+![Day with maximum tweets](./PFIZER_4.png)
 
-#### 6 countries having huge COVID-19 deaths in the world
-![6 countries having huge COVID-19 deaths in the world](./COVID_6.png)
+#### Top-10 users with maximum number of tweets
+![Top-10 users with maximum number of tweets](./PFIZER_5.png)
 
-#### SARS-COV2 cases in the worldwide
-![SARS-COV2 cases](./COVID_7.png)
+#### Top-10 locations with maximum number of users
+![Top-10 locations with maximum number of users](./PFIZER_6.png)
 
-#### SARS-COV2 fatalities in the worldwide
-![SARS-COV2 fatalities in the worldwide](./COVID_8.png)
+#### Number of Followers and Retweets for each type of user
+![Number of Followers and Retweets for each type of user](./PFIZER_7.png)
 
-#### COVID-19 most affected cases in the 20 countries
-![COVID-19 most affected](./COVID_9.png)
+#### Places of missing values in column
+![Places of missing values in column](./PFIZER_8.png)
 
-#### SARS-COV2 incidence per 100000 inhabitants
-![SARS-COV2 incidence per 100000 inhabitants](./COVID_14.png)
+#### Barplot for unique values in each column
+![Barplot for unique values in each column](./PFIZER_9.png)
 
-#### SARS-COV2 new cases worldwide
-![SARS-COV2 new cases worldwide](./COVID_16.png)
+#### Distribution of words in text column
+![Distribution of words in text column](./PFIZER_10.png)
 
-#### SARS-COV2 new fatalities worldwide
-![SARS-COV2 new fatalities worldwide](./COVID_18.png)
+#### Data distribution of Username
+![Data distribution of Username](./PFIZER_11.png)
 
-#### SARS-COV2 lethality worldwide
-![SARS-COV2 lethality worldwide](./COVID_20.png)
+#### Data distribution of User Location
+![Data distribution of User Location](./PFIZER_12.png)
 
-#### Population and population density
-![Population and population density](./COVID_22.png)
+#### Data distribution of Tweet Source
+![Data distribution of Tweet Source](./PFIZER_13.png)
 
-#### Cases and deaths per state
-![Cases and deaths per state](./COVID_23.png)
+#### Prevalent words in tweets
+![Prevalent words in tweets](./PFIZER_14.png)
 
-#### Cases normalised to population
-![Number of Seasons in Web-Series](./COVID_24.png)
+#### INDIA:
+![Most Tweet Sources used in India](./PFIZER_15.png)
+![Prevalent words in tweets from India](./PFIZER_16.png)
 
-#### Deaths normalised to population
-![Web-Series with 1 Season](./COVID_25.png)
+#### UNITED STATES:
+![Most Tweet Sources used in United States](./PFIZER_17.png)
+![Prevalent words in tweets from US](./PFIZER_18.png)
 
-#### Cases in counties over their mean
-![Cases in counties over their mean](./COVID_26.png)
+#### UNITED KINGDOM:
+![Most Tweet Sources used in UK](./PFIZER_19.png)
+![Prevalent words in tweets from UK](./PFIZER_20.png)
 
-#### Hot-Spots in Germany
-![Hot-Spots in Germany](./COVID_27.png)
+#### CANADA:
+![Most Tweet Sources used in Canada](./PFIZER_21.png)
+![Prevalent words in tweets from Canada](./PFIZER_22.png)
 
-#### Time dependence
-![Time dependence](./COVID_28.png)
-![Time dependence](./COVID_29.png)
+#### Hashtags
+![Hashtags](./PFIZER_23.png)
 
-#### Age and Gender dependence
-![Age and Gender dependence](./COVID_30.png)
+#### Top-5 Hashtags
+![Top-5 Hashtags](./PFIZER_24.png)
 
-#### Development of Confirmed Cases in Germany
-![Development of Confirmed Cases in Germany](./COVID_31.png)
+#### Hashtags per tweet
+![Hashtags per tweet](./PFIZER_25.png)
 
-#### Incremental Development of Confirmed Cases in Germany
-![Incremental Development of Confirmed Cases in Germany](./COVID_32.png)
+#### Prevalent words in hashtags
+![Prevalent words in hashtags](./PFIZER_26.png)
 
-#### Relative Changes of Confirmed Cases in Germany
-![Relative Changes of Confirmed Cases in Germany](./COVID_35.png)
-
-#### COVID-19 Impacts during weekdays
-![COVID-19 Impacts during weekdays](./COVID_38.png)
-
-#### COVID-19 Logarithmic Impacts during weekdays
-![COVID-19 Logarithmic Impacts during weekdays](./COVID_39.png)
-![COVID-19 Logarithmic Impacts during weekdays](./COVID_40.png)
-
-#### Incremental Deaths vs Incremental Cases in Germany
-![Incremental Deaths vs Incremental Cases in Germany](./COVID_51.png)
-
-### COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_52.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_53.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_54.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_55.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_56.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_57.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_58.png)
-![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_59.png)
-
-### Correlations
-#### Pearson correlation
-![Pearson correlation](./COVID_60.png)
-
-#### Spearman correlation
-![Spearman correlation](./COVID_61.png)
+#### Correlation among various Numerical Features
+![Correlation among various Numerical Features](./PFIZER_27.png)
 
 ### For further information:
 
-Please review the narrative of our analysis in [our jupyter notebook](./covid19-eda-comparison-between-india-germany.ipynb)
+Please review the narrative of our analysis in [our jupyter notebook](./Pfizer%20Tweets%20Analysis%20and%20Visualisations.ipynb)
 
 For any additional questions, please contact **shaileshettyd@gmail.com)
 
 ##### Repository Structure:
 
 ```
-├── README.md                                                                                                                            <- The top-level README for reviewers
-├── covid-19-analysis-and-visualisations.html;covid19-eda-comparison-between-india-germany.ipynb;geospatial-demographics-analysis.ipynb  <- narrative documentation of analysis
-├── netflix_titles.csv                                                                                                                   <- Dataset
-└── images                                                                                                                               <- generated from code
+├── README.md                                                                                                   <- The top-level README for reviewers
+├── Pfizer%20Tweets%20Analysis%20and%20Visualisations.ipynb                                                     <- narrative documentation of analysis
+├── vaccination_tweets.csv                                                                                      <- Dataset
+└── images                                                                                                      <- generated from code
 ```
 ## Citing :
 
 ```
 @misc{Shailesh:2020,
   Author = {Shailesh Dhama},
-  Title = {COVID-19 Trends in Deutschland},
+  Title = {Pfizer-Tweets-Analysis-and-Visualisations},
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/ShaileshDhama/COVID-19-Trends-in-Deutschland}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/Pfizer-Tweets-Analysis-and-Visualisations}}
 }
 ```
